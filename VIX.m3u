@@ -1,0 +1,14 @@
+############## ABERTOS #################  
+#EXTINF:-1 tvg-id="1" group-title="TV" tvg-name="TV Cultura" tvg-logo="http://logos.pfsv.io/tvcultura.png",TV Cultura
+http://pfsv.io:80/176659586/5199/47
+
+#EXTINF:-1 tvg-id="2" group-title="TV" tvg-name="Band" tvg-logo="http://logos.pfsv.io/band.png",Band
+http://pfsv.io:80/176659586/5199/30181
+
+#EXTINF:-1 tvg-id="3" group-title="TV" tvg-name="Record" tvg-logo="http://logos.pfsv.io/recordtv.png",Record
+http://pfsv.io:80/176659586/5199/45
+
+#EXTINF:-1 tvg-id="4" group-title="TV" tvg-name="SBT" tvg-logo="http://logos.pfsv.io/sbt.png",SBT
+http://pfsv.io:80/176659586/5199/46
+
+
